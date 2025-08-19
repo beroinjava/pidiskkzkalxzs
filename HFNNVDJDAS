@@ -1,0 +1,30 @@
+{
+  "version": "1.1",
+  "users": [
+    {
+      "hwid": "8f7e6d5c4b3a2910abcdef123456789012345678901234567890abcdef12345",
+      "rights": "full",
+      "nickname": "AdminDenis"
+    },
+    {
+      "hwid": "1a2b3c4d5e6f7890123456789abcdef0fedcba9876543210fedcba0987654321",
+      "rights": "normal",
+      "nickname": "ModerMax"
+    },
+    {
+      "hwid": "abc123def456789012345678901234567890abcdef123456789012345678901",
+      "rights": "normal",
+      "nickname": "PlayerKirill"
+    },
+    {
+      "hwid": "fed456cba9876543210fedcba987654321098765432109876543210987654321",
+      "rights": "normal",
+      "nickname": "TestUser"
+    },
+    {
+      "hwid": "999888777666555444333222111000aaabbbcccdddeeefffabcdef0123456789",
+      "rights": "normal",
+      "nickname": "GuestPlayer"
+    }
+  ]
+}
