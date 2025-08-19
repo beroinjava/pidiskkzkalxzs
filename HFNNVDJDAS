@@ -2,29 +2,34 @@
   "version": "1.1",
   "users": [
     {
-      "hwid": "8f7e6d5c4b3a2910abcdef123456789012345678901234567890abcdef12345",
+      "hwid": "c5dcdc742949c9bff30462a819dfde83b81c2c7aa52c53eae896f2124103a5da",
       "rights": "full",
-      "nickname": "AdminDenis"
+      "nickname": "denischifer",
+      "status": "admin"
     },
     {
       "hwid": "1a2b3c4d5e6f7890123456789abcdef0fedcba9876543210fedcba0987654321",
-      "rights": "normal",
-      "nickname": "ModerMax"
+      "rights": "full",
+      "nickname": "ModerMax",
+      "status": "admin"
     },
     {
       "hwid": "abc123def456789012345678901234567890abcdef123456789012345678901",
-      "rights": "normal",
-      "nickname": "PlayerKirill"
+      "rights": "limited",
+      "nickname": "PlayerKirill",
+      "status": "user"
     },
     {
       "hwid": "fed456cba9876543210fedcba987654321098765432109876543210987654321",
-      "rights": "normal",
-      "nickname": "TestUser"
+      "rights": "limited",
+      "nickname": "TestUser",
+      "status": "tester"
     },
     {
       "hwid": "999888777666555444333222111000aaabbbcccdddeeefffabcdef0123456789",
-      "rights": "normal",
-      "nickname": "GuestPlayer"
+      "rights": "limited",
+      "nickname": "GuestPlayer",
+      "status": "user"
     }
   ]
 }
