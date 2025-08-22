@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "variance": "0",
+  "variance": "4",
   "users": [
     {
       "hwid": "c5dcdc742949c9bff30462a819dfde83b81c2c7aa52c53eae896f2124103a5da",
@@ -27,9 +27,33 @@
       "status": "user"
     },
     {
-      "hwid": "999888777666555444333222111000aaabbbcccdddeeefffabcdef0123456789",
-      "rights": "limited",
-      "nickname": "GuestPlayer",
+      "hwid": "3b9352cf88211bc34566a8ed7e406347099162e42c337d43f0c1e435add46d05",
+      "rights": "normal",
+      "nickname": "neiseha",
+      "status": "user"
+    },
+    {
+      "hwid": "b86930074de022101f7e1c0df5f720648b36124273883147f345059b8994cc90",
+      "rights": "normal",
+      "nickname": "d1reevo",
+      "status": "user"
+    },
+    {
+      "hwid": "2adfea9b5bb297e630cd15eede360794b40052728712e27234acbf0dcb947f92",
+      "rights": "normal",
+      "nickname": "Frosty",
+      "status": "user"
+    },
+    {
+      "hwid": "8c0281801a9aced253c26b8d1f8f87f77dd8ebaf172bc0b05a6ca12f7e7cf04b",
+      "rights": "normal",
+      "nickname": "Frendli_Tip",
+      "status": "user"
+    },
+    {
+      "hwid": "6a8121db5dc1d49b9294627c9a77ccc7e4914cf38a126f0f7c8ef894e7968f60",
+      "rights": "normal",
+      "nickname": "whiteman4990",
       "status": "user"
     }
   ]
