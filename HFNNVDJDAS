@@ -21,10 +21,10 @@
       "status": "user"
     },
     {
-      "hwid": "fed456cba9876543210fedcba987654321098765432109876543210987654321",
-      "rights": "limited",
-      "nickname": "TestUser",
-      "status": "tester"
+      "hwid": "a8069d2939a2636016e0735573b188519877e3b3f2ce3ea8dbf142465bf80936",
+      "rights": "normal",
+      "nickname": "Amiraldik",
+      "status": "user"
     },
     {
       "hwid": "999888777666555444333222111000aaabbbcccdddeeefffabcdef0123456789",
