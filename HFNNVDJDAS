@@ -9,15 +9,15 @@
       "status": "admin"
     },
     {
-      "hwid": "1a2b3c4d5e6f7890123456789abcdef0fedcba9876543210fedcba0987654321",
-      "rights": "full",
-      "nickname": "ModerMax",
-      "status": "admin"
+      "hwid": "949322644de32cc828ede4998bd0fc7215c042129443a0909cd1054509d9ef29",
+      "rights": "normal",
+      "nickname": "TheToxicMoon",
+      "status": "user"
     },
     {
-      "hwid": "abc123def456789012345678901234567890abcdef123456789012345678901",
-      "rights": "limited",
-      "nickname": "PlayerKirill",
+      "hwid": "5413e6c5ce15b77bf5d08e5c7c94caec3a98ac75510c5b2503eb75a7ad8a7ace",
+      "rights": "normal",
+      "nickname": "machinator",
       "status": "user"
     },
     {
