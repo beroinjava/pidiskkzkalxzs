@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "variance": "4",
+  "variance": "0",
   "users": [
     {
       "hwid": "c5dcdc742949c9bff30462a819dfde83b81c2c7aa52c53eae896f2124103a5da",
@@ -48,6 +48,12 @@
       "hwid": "8c0281801a9aced253c26b8d1f8f87f77dd8ebaf172bc0b05a6ca12f7e7cf04b",
       "rights": "normal",
       "nickname": "Frendli_Tip",
+      "status": "user"
+    },
+    {
+      "hwid": "8dec49ad267a85ad139c8c49ee34bfb746dcd5633588ee803d8a74b29782d7f9",
+      "rights": "normal",
+      "nickname": "Prepo_Tar",
       "status": "user"
     },
     {
