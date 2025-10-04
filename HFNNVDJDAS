@@ -9,6 +9,12 @@
       "status": "admin"
     },
     {
+      "hwid": "2db2eaea067f95d5935a271392e11d45bdf50bf09f3a6b32a257421581bfe95e",
+      "rights": "normal",
+      "nickname": "sipwize",
+      "status": "user"
+    },
+    {
       "hwid": "9fe8197f4d6f76e6af5efb11519d14a368d691c4e4a289fdbca6cc684bd63813",
       "rights": "normal",
       "nickname": "Reym",
