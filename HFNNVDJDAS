@@ -57,12 +57,6 @@
       "status": "user"
     },
     {
-      "hwid": "949322644de32cc828ede4998bd0fc7215c042129443a0909cd1054509d9ef29",
-      "rights": "normal",
-      "nickname": "TheToxicMoon",
-      "status": "user"
-    },
-    {
       "hwid": "7899b0114b44bd22585b34722399f5ddfe9a70dc25efef9ba4957ebbe55dc80a",
       "rights": "normal",
       "nickname": "ABOBA6884",
@@ -93,12 +87,6 @@
       "status": "user"
     },
     {
-      "hwid": "2adfea9b5bb297e630cd15eede360794b40052728712e27234acbf0dcb947f92",
-      "rights": "normal",
-      "nickname": "Frosty",
-      "status": "user"
-    },
-    {
       "hwid": "8c0281801a9aced253c26b8d1f8f87f77dd8ebaf172bc0b05a6ca12f7e7cf04b",
       "rights": "normal",
       "nickname": "Frendli_Tip",
@@ -126,6 +114,12 @@
       "hwid": "44b2e4ac2b5fa1f146d4cbb2a5982ca290bcb4583147cef103bdd73221df9e05",
       "rights": "normal",
       "nickname": "MrKryaka",
+      "status": "user"
+    },
+    {
+      "hwid": "2ae838db3cd98275ae6ea33ff51c55edee627e883e5b1f38ef0adf506537ce80",
+      "rights": "normal",
+      "nickname": "Rassvetov",
       "status": "user"
     },
     {
