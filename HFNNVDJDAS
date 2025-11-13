@@ -9,12 +9,6 @@
       "status": "admin"
     },
     {
-      "hwid": "2db2eaea067f95d5935a271392e11d45bdf50bf09f3a6b32a257421581bfe95e",
-      "rights": "normal",
-      "nickname": "sipwize",
-      "status": "user"
-    },
-    {
       "hwid": "9fe8197f4d6f76e6af5efb11519d14a368d691c4e4a289fdbca6cc684bd63813",
       "rights": "normal",
       "nickname": "Reym",
@@ -33,21 +27,9 @@
       "status": "user"
     },
     {
-      "hwid": "01550dfaf59fdf26ab79fa46383f41d5efbb56191681e67e2a1e88be8d91110b",
-      "rights": "normal",
-      "nickname": "bublikbesplatno",
-      "status": "user"
-    },
-    {
       "hwid": "a700f236870b6508fdc46ed9e545de2ce871b6ea5e30e1ae79a1478816e9d9a5",
       "rights": "normal",
       "nickname": "Kobra1337",
-      "status": "user"
-    },
-    {
-      "hwid": "12a1d9b7f249bd64f91a8fffd33867515e37aab0a0b0af302c5f9b2f24eecd91",
-      "rights": "normal",
-      "nickname": "kerm1nn",
       "status": "user"
     },
     {
@@ -60,6 +42,12 @@
       "hwid": "7899b0114b44bd22585b34722399f5ddfe9a70dc25efef9ba4957ebbe55dc80a",
       "rights": "normal",
       "nickname": "ABOBA6884",
+      "status": "user"
+    },
+    {
+      "hwid": "0d8be79c94d2e113028da7a65cada3e5aa01300660d1aa16c1208d500fdda6d3",
+      "rights": "normal",
+      "nickname": "apologize",
       "status": "user"
     },
     {
@@ -78,12 +66,6 @@
       "hwid": "3b9352cf88211bc34566a8ed7e406347099162e42c337d43f0c1e435add46d05",
       "rights": "normal",
       "nickname": "neiseha",
-      "status": "user"
-    },
-    {
-      "hwid": "b86930074de022101f7e1c0df5f720648b36124273883147f345059b8994cc90",
-      "rights": "normal",
-      "nickname": "d1reevo",
       "status": "user"
     },
     {
@@ -120,12 +102,6 @@
       "hwid": "2ae838db3cd98275ae6ea33ff51c55edee627e883e5b1f38ef0adf506537ce80",
       "rights": "normal",
       "nickname": "Rassvetov",
-      "status": "user"
-    },
-    {
-      "hwid": "5015eafd498a30dd5e593d61459606c26fb55ce2d95db6fdb33beff71d4162ca",
-      "rights": "normal",
-      "nickname": "skinyjeans",
       "status": "user"
     },
     {
