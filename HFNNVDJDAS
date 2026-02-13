@@ -15,12 +15,6 @@
       "status": "tester"
     },
     {
-      "hwid": "8dec49ad267a85ad139c8c49ee34bfb746dcd5633588ee803d8a74b29782d7f9",
-      "rights": "normal",
-      "nickname": "c0ldestm1ndest_",
-      "status": "user"
-    },
-    {
       "hwid": "08395d20f83cb08ae35197c34c2784d50273ca41bf3e80a74c557f32d2eb613d",
       "rights": "normal",
       "nickname": "Gipnozia",
@@ -42,12 +36,6 @@
       "hwid": "9e9aae3aca93113f6708528ff6d322c7cb20b2073d7e4a5edd4159b080f62c39",
       "rights": "normal",
       "nickname": "oxysensor",
-      "status": "user"
-    },
-    {
-      "hwid": "83cae585dd7b00f7674a706253f655bb7158c794b4ca1628d2c8a882df901e6c",
-      "rights": "normal",
-      "nickname": "DonkAndMonesi",
       "status": "user"
     },
     {
@@ -84,12 +72,6 @@
       "hwid": "1f90cbf159d8c519bc3e0cf3bebc29e917ee184fefc41f4e67e896c98b8edf8d",
       "rights": "normal",
       "nickname": "LyaguxaST",
-      "status": "user"
-    },
-    {
-      "hwid": "61ff5be4c40958abed8457af4d8c110b73b659a45b78ebffc564e49e26913e86",
-      "rights": "normal",
-      "nickname": "lepsrihgob",
       "status": "user"
     },
     {
@@ -210,12 +192,6 @@
       "hwid": "a8069d2939a2636016e0735573b188519877e3b3f2ce3ea8dbf142465bf80936",
       "rights": "normal",
       "nickname": "Amiraldikk",
-      "status": "user"
-    },
-    {
-      "hwid": "44b2e4ac2b5fa1f146d4cbb2a5982ca290bcb4583147cef103bdd73221df9e05",
-      "rights": "normal",
-      "nickname": "MrKryaka",
       "status": "user"
     },
     {
