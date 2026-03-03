@@ -9,51 +9,9 @@
       "status": "admin"
     },
     {
-      "hwid": "dcb1e93130a0d032042c6f9a5088bb220adac9754a30c92ebee935f6999ea6e1",
-      "rights": "normal",
-      "nickname": "WhyNotLazarus",
-      "status": "tester"
-    },
-    {
-      "hwid": "12a1d9b7f249bd64f91a8fffd33867515e37aab0a0b0af302c5f9b2f24eecd91",
-      "rights": "normal",
-      "nickname": "kerm1nn",
-      "status": "user"
-    },
-    {
-      "hwid": "854a599f6cd711801fc52019d2aabf3b9137dfeb8321cb0515488a391e5fd3a2",
-      "rights": "normal",
-      "nickname": "Jockerdudka777",
-      "status": "user"
-    },
-    {
-      "hwid": "60c89509a32762700b85c231d8533be6342b4af715955e0a3dc16b0cd6dc133e",
-      "rights": "normal",
-      "nickname": "I_l",
-      "status": "user"
-    },
-    {
-      "hwid": "d8e83f0828539f23f4b770424157dc3638f2911499210f5105918c0e9d8b8e68",
-      "rights": "normal",
-      "nickname": "ia1nn",
-      "status": "user"
-    },
-    {
       "hwid": "08395d20f83cb08ae35197c34c2784d50273ca41bf3e80a74c557f32d2eb613d",
       "rights": "normal",
       "nickname": "Gipnozia",
-      "status": "user"
-    },
-    {
-      "hwid": "04ca6199d425da9760cd62686a6f43386053b9929461357bd21578b3f686a75c",
-      "rights": "normal",
-      "nickname": "SALATtop",
-      "status": "user"
-    },
-    {
-      "hwid": "e3e2769731153c8b78648ef5241e475e8afde9cb6a5260b7d71f9a3a30848752",
-      "rights": "normal",
-      "nickname": "Leichtenshtein",
       "status": "user"
     },
     {
@@ -63,57 +21,9 @@
       "status": "user"
     },
     {
-      "hwid": "8c7b3e850767d3fea5928a6832538a6b1e6573ff4a85fc2433fc883d8162dced",
-      "rights": "normal",
-      "nickname": "Sniper_PUBGMS",
-      "status": "user"
-    },
-    {
-      "hwid": "8dec49ad267a85ad139c8c49ee34bfb746dcd5633588ee803d8a74b29782d7f9",
-      "rights": "normal",
-      "nickname": "KakoitoEgor",
-      "status": "user"
-    },
-    {
-      "hwid": "7a0b24622db69706f225bd1970a3bc1f5c614387be343937667d213a458b2052",
-      "rights": "normal",
-      "nickname": "Zwertagiuss",
-      "status": "user"
-    },
-    {
-      "hwid": "228a584661b18a4c3bb6798300644a25e91bc54890bc217d694da677df6b8a6a",
-      "rights": "normal",
-      "nickname": "1Valhalla",
-      "status": "user"
-    },
-    {
-      "hwid": "573e1b022cf2801bac0eb31cc81d5b82d375adcba5260aa95743e7b60869a785",
-      "rights": "normal",
-      "nickname": "radino229",
-      "status": "user"
-    },
-    {
-      "hwid": "afc86bf9613d929fc7c43ec9beb36e5a55e6af59d460c9fbd241a7e08cb4033f",
-      "rights": "normal",
-      "nickname": "TheNiytew",
-      "status": "user"
-    },
-    {
-      "hwid": "9fe8197f4d6f76e6af5efb11519d14a368d691c4e4a289fdbca6cc684bd63813",
-      "rights": "normal",
-      "nickname": "Reym",
-      "status": "user"
-    },
-    {
       "hwid": "74b32c87009c0f5d73461bb03966c2a3c49041c7151cc1b57dac33e345a8796b",
       "rights": "normal",
       "nickname": "Extraz1",
-      "status": "user"
-    },
-    {
-      "hwid": "0e342cd2250feab1938b8805d24181a91de75bc635fc4f916cb4accd0ed1028a",
-      "rights": "normal",
-      "nickname": "command8913",
       "status": "user"
     },
     {
@@ -123,136 +33,5 @@
       "status": "user"
     },
     {
-      "hwid": "228b415fb9751a0633c4771ca40fc4765dc1c405790ea886195bfcf2a661ed85",
-      "rights": "normal",
-      "nickname": "KAMEHb_B_BODE",
-      "status": "user"
-    },
-    {
-      "hwid": "a4f06292f6091fd91f4bbf89a5b54f81b0f89341dbe709efa3e580632e174d07",
-      "rights": "normal",
-      "nickname": "RedMices",
-      "status": "user"
-    },
-    {
-      "hwid": "a21c8f8673680777fb455ac7b3306f3c5790be7442ad1e0321e8697c4e0f09b3",
-      "rights": "normal",
-      "nickname": "papich_dota2",
-      "status": "user"
-    },
-    {
-      "hwid": "2d870f479160781c37456b66def146144819611d09571286061d967b5714d990",
-      "rights": "normal",
-      "nickname": "i2b",
-      "status": "user"
-    },
-    {
-      "hwid": "53390135bb9af7b7c613447d8e5945277587ba6e466fd3c73ad1635811691581",
-      "rights": "normal",
-      "nickname": "santa0",
-      "status": "user"
-    },
-    {
-      "hwid": "e4e957d106dda958479ff0b63c9165c4e24ac45f95971c1d4dc84fce8e7212c1",
-      "rights": "normal",
-      "nickname": "stasananas338",
-      "status": "user"
-    },
-    {
-      "hwid": "4120db29385a71fa288424d3f4a0bcd5cb7d0ee214133fb920fcba02f38a24ca",
-      "rights": "normal",
-      "nickname": "FotonX17",
-      "status": "tester"
-    },
-    {
-      "hwid": "a700f236870b6508fdc46ed9e545de2ce871b6ea5e30e1ae79a1478816e9d9a5",
-      "rights": "normal",
-      "nickname": "Kobra1337",
-      "status": "user"
-    },
-    {
-      "hwid": "a211138acb268a8b13c1ea096d0414a8dac407334a879ff56544ad76b7c0edc1",
-      "rights": "normal",
-      "nickname": "Kobro4ka_freedom",
-      "status": "user"
-    },
-    {
-      "hwid": "71d2b57b67f41c1b6dfc19338929d3bffe8e02aa037c97a2dabadf6eaff07b25",
-      "rights": "normal",
-      "nickname": "Jada1553",
-      "status": "tester"
-    },
-    {
-      "hwid": "7899b0114b44bd22585b34722399f5ddfe9a70dc25efef9ba4957ebbe55dc80a",
-      "rights": "normal",
-      "nickname": "ABOBA6884",
-      "status": "user"
-    },
-    {
-      "hwid": "5413e6c5ce15b77bf5d08e5c7c94caec3a98ac75510c5b2503eb75a7ad8a7ace",
-      "rights": "normal",
-      "nickname": "machinator",
-      "status": "user"
-    },
-    {
-      "hwid": "a8069d2939a2636016e0735573b188519877e3b3f2ce3ea8dbf142465bf80936",
-      "rights": "normal",
-      "nickname": "Amiraldik",
-      "status": "user"
-    },
-    {
-      "hwid": "3b9352cf88211bc34566a8ed7e406347099162e42c337d43f0c1e435add46d05",
-      "rights": "full",
-      "nickname": "neiseha",
-      "status": "tester"
-    },
-    {
-      "hwid": "07f4b41206f8408fc85cafe530e29b891042ee4bc419787f8566a1eab0a923ac",
-      "rights": "normal",
-      "nickname": "PtichkiProb",
-      "status": "user"
-    },
-    {
-      "hwid": "8c0281801a9aced253c26b8d1f8f87f77dd8ebaf172bc0b05a6ca12f7e7cf04b",
-      "rights": "normal",
-      "nickname": "Frendli_Tip",
-      "status": "user"
-    },
-    {
-      "hwid": "731785a8cd20b7d6114179c10ba681fa13ab20aa34a6bb92c662afbcb91d29de",
-      "rights": "normal",
-      "nickname": "ImYuffi",
-      "status": "user"
-    },
-    {
-      "hwid": "44b2e4ac2b5fa1f146d4cbb2a5982ca290bcb4583147cef103bdd73221df9e05",
-      "rights": "normal",
-      "nickname": "MrKryaka",
-      "status": "user"
-    },
-    {
-      "hwid": "d1327471fc1f97a72a5fe507717a6f38967766c179a58dcd972a5d40e1270b27",
-      "rights": "normal",
-      "nickname": "Prepo_Tar",
-      "status": "user"
-    },
-    {
-      "hwid": "a8069d2939a2636016e0735573b188519877e3b3f2ce3ea8dbf142465bf80936",
-      "rights": "normal",
-      "nickname": "Amiraldikk",
-      "status": "user"
-    },
-    {
-      "hwid": "2ae838db3cd98275ae6ea33ff51c55edee627e883e5b1f38ef0adf506537ce80",
-      "rights": "normal",
-      "nickname": "Rassvetov",
-      "status": "user"
-    },
-    {
-      "hwid": "6a8121db5dc1d49b9294627c9a77ccc7e4914cf38a126f0f7c8ef894e7968f60",
-      "rights": "normal",
-      "nickname": "whiteman4990",
-      "status": "user"
-    }
   ]
 }
