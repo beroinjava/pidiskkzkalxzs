@@ -39,6 +39,12 @@
       "status": "user"
     },
     {
+      "hwid": "9e9aae3aca93113f6708528ff6d322c7cb20b2073d7e4a5edd4159b080f62c39",
+      "rights": "normal",
+      "nickname": "oxysensor",
+      "status": "user"
+    },
+    {
       "hwid": "4f8349df6a5b9f10f90f959c8cc1c232127aed5b8c8486049d2c143fee53b19c",
       "rights": "normal",
       "nickname": "FA_NAT_OM",
